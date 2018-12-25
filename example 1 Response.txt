@@ -1,0 +1,5 @@
+# The program will produce a semantic error, as line 9 does not use a space, nor a comma, which is desired.
+# And unless type of format is desired, which doesn't seem to be the case, you will print:
+"Classic format ", Foo Bar
+#  and
+"System-preferred ", BarFoo 
