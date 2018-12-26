@@ -1,0 +1,14 @@
+>>> x = "foo"
+>>> y = "bar"
+>>> fmt = y.capitalize()+", "+x.capitalize()
+>>> print (fmt)(
+... print (fmt)
+...
+... print (fmt)
+  File "<stdin>", line 4
+    print (fmt)
+        ^
+SyntaxError: invalid syntax
+>>> print (fmt)
+Bar, Foo
+>>>
