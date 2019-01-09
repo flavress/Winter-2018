@@ -1,0 +1,15 @@
+python
+def Fullname( Firstname, Lastname ):
+  print (Firstname.capitalize() +" "+Lastname.capitalize())
+  return
+ 
+ Fullname( Firstname = "Foo", Lastname = "Bar")
+Foo Bar
+
+
+def Systempreferred ( Lastname, Firstname ):
+  print (Lastname.capitalize()+", "+Firstname.capitalize())
+  return
+  
+ Systempreferred( Lastname = "Bar", Firstname = "Foo")
+Bar, Foo 
