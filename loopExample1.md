@@ -4,18 +4,18 @@ INPUT
 ------
 A dictionary as follows:
 
-  {'dad': {
-    
-    'firstnam': 'raj','lastname':'balasubramanian'
-    
-    },
-    
-    'mom': {
-    
-    'firstnam': 'stefanie','lastname':'balasubramanian'
-    
+    {'dad': {
+
+      'firstnam': 'raj','lastname':'balasubramanian'
+
+      },
+
+      'mom': {
+
+      'firstnam': 'stefanie','lastname':'balasubramanian'
+
+      }
     }
-  }
   
 OUTPUT
 -------
