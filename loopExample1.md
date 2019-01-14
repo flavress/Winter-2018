@@ -1,4 +1,8 @@
 ### Example to take in a dictionary and print our fancy names
+The goal of this exercise is to 
+- understand arrays and dictionary
+- understand for loop
+- write a function that takes a dictionary below and prints out the desired output below
 
 INPUT
 ------
